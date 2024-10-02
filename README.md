@@ -1,4 +1,4 @@
-# Tree-species-classification-research-and-results
+# Tree species classification research and results
 Implementation and results of Random Forest machine learning algorithm applied to tree species classification of the Sierra Nevada mountain range through Landsat-8 satellite imagery. Tree species-specific data gathered from the [USDA Forest Service's TreeMap 2016 dataset](https://www.fs.usda.gov/rds/archive/catalog/RDS-2021-0074). JRHS publication builds upon limitations of previous JEI publication. <br/>
 <br/>
 __Publications:__ <br/>
